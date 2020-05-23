@@ -1,0 +1,6 @@
+starlette
+uvicorn
+ujson
+gunicorn
+pytest
+requests
